@@ -1,0 +1,8 @@
+========
+20200327
+========
+Hola Zaida,
+
+- copia l'arxiu index.html fora del directori 'Java Sript'
+- esborra el directori 'Java Sript'
+- prova a executar el codi JS des d'un arxiu extern
