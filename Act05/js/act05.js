@@ -17,9 +17,6 @@ var y1 = 1;
 for (unicorn = 10; y1 <= 11; unicorn--) {
 document.write(o + " x " +unicorn+ " = " +o*unicorn+ "</br>");
 y1++;
-if( unicorn == 10){
-document.write ("</br>");
-}
 }
 
 //TASCA 3
